@@ -1,0 +1,36 @@
+
+Ά
+java:S1130
+"jRemove the declaration of thrown exception 'java.lang.NumberFormatException' which is a runtime exception.(ωΧ©ϊÿÿÿÿ8ν©­®Ρ.HΪRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ωούύÿÿÿÿ8Ώεφ­Ρ.H¶RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ωούύÿÿÿÿ8Ώεφ­Ρ.HΈRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(νη—ÿÿÿÿÿ8Ώεφ­Ρ.HΑRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Ϋ’Ρώ8Ώεφ­Ρ.HΏRMAJORZ
+CODE_SMELL
+‡
+java:S1192"LDefine a constant instead of duplicating this literal "Enter value" 6 times.(ωούύÿÿÿÿ8Ώεφ­Ρ.H³RCRITICALZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ωούύÿÿÿÿ8Ώεφ­Ρ.H΄RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(»½•ψÿÿÿÿ8Ώεφ­Ρ.HΌRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ωούύÿÿÿÿ8Ώεφ­Ρ.HΐRMAJORZ
+CODE_SMELL
+W	java:S131""Add a default case to this switch.(¨ΥΙ8Ώεφ­Ρ.HµRCRITICALZ
+CODE_SMELL
+j	java:S106#"9Replace this use of System.out or System.err by a logger.(§Μμu8Ώεφ­Ρ.H½RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(‡“ϋϊÿÿÿÿ8Ώεφ­Ρ.HΊRMAJORZ
+CODE_SMELL
+p	java:S106""9Replace this use of System.out or System.err by a logger.(ωούύÿÿÿÿ8Ώεφ­Ρ.HΉRMAJORZ
+CODE_SMELL
+p	java:S106&"9Replace this use of System.out or System.err by a logger.(ωούύÿÿÿÿ8Ώεφ­Ρ.HΎRMAJORZ
+CODE_SMELL
+p	java:S106'"9Replace this use of System.out or System.err by a logger.(σ¬½νÿÿÿÿÿ8Ώεφ­Ρ.H»RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ιΣΊϊ8Ώεφ­Ρ.H·RMAJORZ
+CODE_SMELL

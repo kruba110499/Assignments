@@ -1,0 +1,23 @@
+package com.assignment.problem19;
+
+import java.util.concurrent.ForkJoinPool;
+import java.util.concurrent.RecursiveAction;
+class Thread1 extends RecursiveAction{
+	ForkJoinPool pool=new ForkJoinPool();
+	@Override
+	protected void compute() {
+	  
+		
+	}
+	
+}
+public class ForkJoin {
+
+	public static void main(String[] args) {
+		Thread1 obj=new Thread1();
+		ForkJoinPool pool=new ForkJoinPool();
+		
+		pool.invoke(obj);
+	}
+   
+}

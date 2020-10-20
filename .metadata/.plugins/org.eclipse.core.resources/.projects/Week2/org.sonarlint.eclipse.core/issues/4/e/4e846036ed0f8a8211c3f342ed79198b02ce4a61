@@ -1,0 +1,13 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ŠèÊø8˜¾¡àÓ.HüRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(áÃîŸÿÿÿÿÿ8˜¾¡àÓ.HûRMAJORZ
+CODE_SMELL
+n
+java:S3516"9Refactor this method to not always return the same value.(¹‹Ì»8˜¾¡àÓ.HùRBLOCKERZ
+CODE_SMELL
+‘
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(£²Ý¯ûÿÿÿÿ8˜¾¡àÓ.HýRMINORZ
+CODE_SMELL
+p
+java:S2583"DChange this condition so that it does not always evaluate to "false"(¸²ç”8«Š¨àÓ.H€	RMAJORZBUG

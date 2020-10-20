@@ -1,0 +1,24 @@
+
+„
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(äı¾Î8®˜×Ñ.HåRMAJORZ
+CODE_SMELL
+‰
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(„ìÓôÿÿÿÿÿ8®˜×Ñ.HæRMAJORZ
+CODE_SMELL
+}
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ö ñÏùÿÿÿÿ8êÕ‰×Ñ.HçRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Šù§ãÿÿÿÿÿ8êÕ‰×Ñ.HèRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(„ìÓôÿÿÿÿÿ8êÕ‰×Ñ.HéRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(“ñøÊüÿÿÿÿ8êÕ‰×Ñ.HêRMAJORZ
+CODE_SMELL
+‰
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(“ñøÊüÿÿÿÿ8®˜×Ñ.HëRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(äı¾Î8êÕ‰×Ñ.HìRMAJORZ
+CODE_SMELL
+‰
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Šù§ãÿÿÿÿÿ8®˜×Ñ.HíRMAJORZ
+CODE_SMELL

@@ -1,0 +1,18 @@
+
+ˆ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®®¶±ıÿÿÿÿ8¼ƒĞ²Ñ.H‡RMINORZ
+CODE_SMELL
+c
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ÖÓ¹Ñ.HñRMINORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(ò†û8¼ƒĞ²Ñ.HˆRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Äªøè8šù›²Ñ.HøRMAJORZ
+CODE_SMELL
+c
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ÖÓ¹Ñ.HòRMINORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓÔ=8šù›²Ñ.HùRMAJORZ
+CODE_SMELL
+¢
+java:S1130"jRemove the declaration of thrown exception 'java.lang.NumberFormatException' which is a runtime exception.(ù×©úÿÿÿÿ8šù›²Ñ.H÷RMINORZ
+CODE_SMELL

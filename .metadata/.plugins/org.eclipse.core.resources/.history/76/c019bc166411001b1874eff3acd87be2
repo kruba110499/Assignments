@@ -1,0 +1,17 @@
+package com.assignment.problem17;
+
+import java.util.concurrent.Exchanger;
+
+public class Checker implements Runnable{
+    int amount;
+    Exchanger ex;
+    Checker(Exchanger ex){
+    	this.ex=ex;
+    }
+	@Override
+	public void run() {
+		
+		
+	}
+
+}

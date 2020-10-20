@@ -1,0 +1,30 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(îôÆêşÿÿÿÿ8£ñèÓ.H£
+RMAJORZ
+CODE_SMELL
+r
+java:S21423"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8£ñèÓ.H¤
+RMAJORZBUG
+p	java:S106"9Replace this use of System.out or System.err by a logger.(íê¯Úùÿÿÿÿ8£ñèÓ.H¥
+RMAJORZ
+CODE_SMELL
+v
+java:S1128">Remove this unused import 'java.util.concurrent.ForkJoinPool'.(†¿ŞÖûÿÿÿÿ8£ñèÓ.H¦
+RMINORZ
+CODE_SMELL
+y
+java:S1128"ARemove this unused import 'java.util.concurrent.RecursiveAction'.( Ú¼ıÿÿÿÿÿ8£ñèÓ.H§
+RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¸–Û¢ıÿÿÿÿ8£ñèÓ.H¨
+RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(æÈ¡“ûÿÿÿÿ8£ñèÓ.H©
+RMAJORZ
+CODE_SMELL
+r
+java:S2142,"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8£ñèÓ.Hª
+RMAJORZBUG
+‚	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÊîL8£ñèÓ.H«
+RMINORZ
+CODE_SMELL

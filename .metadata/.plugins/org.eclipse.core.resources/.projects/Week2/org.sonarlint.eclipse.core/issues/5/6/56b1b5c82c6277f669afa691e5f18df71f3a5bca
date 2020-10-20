@@ -1,0 +1,6 @@
+
+n
+java:S1854"6Remove this useless assignment to local variable "s1".(ÁÀ¼¦üÿÿÿÿ8Ò £áÓ.H¤	RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(‡”‡‡ûÿÿÿÿ8Ò £áÓ.H¥	RMAJORZ
+CODE_SMELL

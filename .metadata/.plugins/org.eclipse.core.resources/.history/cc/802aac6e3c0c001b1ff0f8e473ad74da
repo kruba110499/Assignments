@@ -1,0 +1,26 @@
+package com.week1assignment.problem4;
+
+public class Cylinder {
+	 final static double PI=3.14;
+	 public static double feetToMeterConvertion(double numberToBeConverted)
+	 {
+	 double convertedNumber= numberToBeConverted*0.3048;
+	 return convertedNumber;
+	 }
+	 public static void main(String[] args) {
+			 double heightOfTheCylinder=20,internalDiameter=5;
+			 double heightOfTheCylinderInMeter=feetToMeterConvertion(heightOfTheCylinder);
+			 double internalDiameterInMeter=feetToMeterConvertion(internalDiameter);
+			 double internalRadiusInMeter=internalDiameterInMeter/2;
+			 double volumeOfTheCylinder=PI*internalRadiusInMeter*internalRadiusInMeter*heightOfTheCylinderInMeter;
+			 double litresToBeFilled=volumeOfTheCylinder*volumeOfTheCylinder*volumeOfTheCylinder;
+			 double rateForOneHour=litresToBeFilled/60;
+			 double rateForTwoHour=litresToBeFilled/(60*2);
+			 double rateForThreeHour=litresToBeFilled/(60*3);
+			 double rateForFourHour=litresToBeFilled/(60*4);
+			 System.out.printf("Rate at which the tank to be filled within 1hour : %.2f(litres/sec)\n",rateForOneHour);
+			 System.out.printf("Rate at which the tank to be filled within 2hour : %.2f(litres/sec)\n",rateForTwoHour);
+			 System.out.printf("Rate at which the tank to be filled within 3hour : %.2f(litres/sec)\n",rateForThreeHour);
+			 System.out.printf("Rate at which the tank to be filled within 4hour : %.2f(litres/sec)\n",rateForFourHour);
+   }
+} 

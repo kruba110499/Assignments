@@ -1,0 +1,14 @@
+package com.assignment.problem30;
+
+public class Buffer implements Runnable{
+	static StringBuffer buffer ;
+	int ctr;
+	public void run() {
+		 buffer = new StringBuffer();
+		System.out.println("Buffer");
+		for(ctr=0;ctr<5;ctr++) {
+			buffer.append(ctr);
+		}
+		
+	}
+}

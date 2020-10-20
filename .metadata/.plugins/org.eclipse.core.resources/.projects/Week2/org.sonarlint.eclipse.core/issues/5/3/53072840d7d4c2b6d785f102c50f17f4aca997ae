@@ -1,0 +1,14 @@
+
+~
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(›¬‘Ѕ8ШжєаУ.H…	RCRITICALZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(‰ЌАМьяяяя8ШжєаУ.H†	RMAJORZ
+CODE_SMELL
+‘
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(›вШ№ыяяяя8ШжєаУ.H‰	RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(‡Ћрїюяяяя8ШжєаУ.H‡	RMAJORZ
+CODE_SMELL
+~
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(щЮИј8ШжєаУ.H„	RCRITICALZ
+CODE_SMELL

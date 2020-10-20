@@ -1,0 +1,14 @@
+package com.assignment.problem30;
+
+public class Builder implements Runnable{
+	static StringBuilder builder = new StringBuilder("Welcome");
+	int ctr;
+	@Override
+	public void run() {
+		System.out.println("Buffer");
+		for(ctr=0;ctr<5;ctr++) {
+			builder.append(ctr);
+		}
+		
+	}
+}

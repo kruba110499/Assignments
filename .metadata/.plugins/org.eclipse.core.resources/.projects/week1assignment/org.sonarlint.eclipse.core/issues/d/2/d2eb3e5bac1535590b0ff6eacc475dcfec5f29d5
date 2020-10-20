@@ -1,0 +1,11 @@
+
+d	java:S106"9Replace this use of System.out or System.err by a logger.(–âÍ¦H¦RMAJORZ
+CODE_SMELL
+a
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»ÚýÿÿÿÿH§RMINORZ
+CODE_SMELL
+v	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(»›°ÁùÿÿÿÿH¨RMAJORZ
+CODE_SMELL
+Œ
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿Éâ¯8‡×®ÄÑ.H©RMINORZ
+CODE_SMELL

@@ -1,0 +1,17 @@
+package com.assignment.problem17;
+
+import java.util.concurrent.Exchanger;
+
+public class Packer implements Runnable{
+	int amount;
+    Exchanger ex;
+    Packer(Exchanger ex){
+    	this.ex=ex;
+    }
+	@Override
+	public void run() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

@@ -1,0 +1,21 @@
+
+i	java:S106="9Replace this use of System.out or System.err by a logger.(‚×âãÿÿÿÿÿHåRMAJORZ
+CODE_SMELL
+Œ
+java:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(ËÌ×Ù8Õêõ´Ñ.HÆRMINORZ
+CODE_SMELL
+z
+java:S1192R"FDefine a constant instead of duplicating this literal "kumar" 3 times.(ƒ”Ý­ùÿÿÿÿHãRCRITICALZ
+CODE_SMELL
+i	java:S106@"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿHäRMAJORZ
+CODE_SMELL
+i	java:S106L"9Replace this use of System.out or System.err by a logger.(ÿ ¸ÅüÿÿÿÿHàRMAJORZ
+CODE_SMELL
+_
+java:S1128"3Remove this unused import 'java.io.BufferedReader'.(€é²ÅHâRMINORZ
+CODE_SMELL
+i	java:S106E"9Replace this use of System.out or System.err by a logger.(¾ËïŠûÿÿÿÿHßRMAJORZ
+CODE_SMELL
+_
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿHáRMINORZ
+CODE_SMELL

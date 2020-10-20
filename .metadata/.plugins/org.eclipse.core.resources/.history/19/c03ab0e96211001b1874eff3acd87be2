@@ -1,0 +1,23 @@
+package com.assignment.problem17;
+
+import java.util.Scanner;
+
+public class ExchangeProgram {
+
+	public static void main(String[] args) {
+		Scanner scan=new Scanner(System.in);
+		int totalamount=scan.nextInt();
+		int index;
+		for(index=0;index<totalamount;index++) {
+			Checker obj=new Checker();
+			Packer packer=new Packer();
+			Thread t1=new Thread(obj);
+			Thread t2=new Thread(packer);
+			thread1.start();
+			thread2.start();
+			
+		}
+
+	}
+
+}

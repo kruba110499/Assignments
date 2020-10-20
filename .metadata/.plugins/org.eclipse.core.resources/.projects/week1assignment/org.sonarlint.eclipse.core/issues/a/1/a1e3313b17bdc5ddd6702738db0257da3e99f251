@@ -1,0 +1,19 @@
+
+[
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½ÒşÿÿÿÿHÖRMINORZ
+CODE_SMELL
+a
+java:S1128"0Remove this unused import 'java.util.Map.Entry'.(±şê¾úÿÿÿÿH×RMINORZ
+CODE_SMELL
+‡
+java:S1149	"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Ã¤¼üÿÿÿÿHØRMAJORZ
+CODE_SMELL
+Š
+java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ã¤¼üÿÿÿÿHÙRMINORZ
+CODE_SMELL
+¢
+java:S1130
+"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú7HÚRMINORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(éû÷‹HÛRMAJORZ
+CODE_SMELL

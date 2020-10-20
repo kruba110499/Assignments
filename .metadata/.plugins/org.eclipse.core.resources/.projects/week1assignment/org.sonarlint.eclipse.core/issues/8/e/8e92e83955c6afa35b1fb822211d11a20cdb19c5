@@ -1,0 +1,30 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Òüõ–8µû ·Ñ.H÷RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Òüõ–8¢ˆĞ·Ñ.HøRMAJORZ
+CODE_SMELL
+w
+java:S1124
+"EReorder the modifiers to comply with the Java Language Specification.(üş§R8î‡Ş´Ñ.HúRMINORZ
+CODE_SMELL
+¢
+java:S11303"jRemove the declaration of thrown exception 'java.lang.NumberFormatException' which is a runtime exception.(ù×©úÿÿÿÿ8‘€ŠµÑ.HÔRMINORZ
+CODE_SMELL
+ƒ
+java:S13018"KReplace this "switch" statement by "if" statements to increase readability.(Ì ¿§üÿÿÿÿ8‹Ÿº·Ñ.HüRMINORZ
+CODE_SMELL
+
+java:S1192"XDefine a constant instead of duplicating this literal " transacted succesfully" 5 times.(Òüõ–8ÊÓç¹Ñ.HûRCRITICALZ
+CODE_SMELL
+k	java:S1066"9Replace this use of System.out or System.err by a logger.(‘ä³8Şãõ·Ñ.H®RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Òüõ–8Şãõ·Ñ.HöRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ëûà‘øÿÿÿÿ8‹Ÿº·Ñ.HşRMAJORZ
+CODE_SMELL
+k	java:S106,"9Replace this use of System.out or System.err by a logger.(Òüõ–8î‡Ş´Ñ.HµRMAJORZ
+CODE_SMELL
+\	java:S1318""Add a default case to this switch.(Ì ¿§üÿÿÿÿ8‹Ÿº·Ñ.HÿRCRITICALZ
+CODE_SMELL
+k	java:S106&"9Replace this use of System.out or System.err by a logger.(Òüõ–8Şãõ·Ñ.HùRMAJORZ
+CODE_SMELL

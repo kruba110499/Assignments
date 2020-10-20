@@ -1,0 +1,11 @@
+
+g
+java:S3740"/Provide the parametrized type for this generic.(®æâÿÿÿÿÿ8”²åÓ.HÄ	RMAJORZ
+CODE_SMELL
+g
+java:S3740"/Provide the parametrized type for this generic.(¾àùşÿÿÿÿ8”²åÓ.HÃ	RMAJORZ
+CODE_SMELL
+r
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ÆÃ°åÓ.HÎ	RMAJORZBUG
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Ãµ€ê8ÆÃ°åÓ.HÏ	RMAJORZ
+CODE_SMELL

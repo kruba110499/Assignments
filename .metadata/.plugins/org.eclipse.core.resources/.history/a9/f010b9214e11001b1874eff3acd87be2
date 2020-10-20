@@ -1,0 +1,16 @@
+package com.assignment.problem22;
+
+import java.util.Properties;
+
+public class ConverttoXML {
+
+	public static void main(String[] args) {
+		InputStream input=new FileInputStream("details.properties");
+		OutputStream output=new FileOutputStream("detail.xml");
+		Properties property=new Properties();
+		property.load(input);
+		property.storeToXML(output, null);
+
+	}
+
+}

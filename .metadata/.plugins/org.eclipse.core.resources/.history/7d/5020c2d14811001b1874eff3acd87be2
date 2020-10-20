@@ -1,0 +1,10 @@
+package com.assignment.problem23;
+
+public class CreatePropertyFile {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

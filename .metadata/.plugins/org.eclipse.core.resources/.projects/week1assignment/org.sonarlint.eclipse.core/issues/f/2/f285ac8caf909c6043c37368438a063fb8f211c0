@@ -1,0 +1,15 @@
+
+‹
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(šµé8Òó¥ÄÑ.H—RMINORZ
+CODE_SMELL
+¢
+java:S1130"jRemove the declaration of thrown exception 'java.lang.NumberFormatException' which is a runtime exception.(ùž×©úÿÿÿÿ8¯†«”Ñ.H•RMINORZ
+CODE_SMELL
+Œ
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ë†à¥8Òó¥ÄÑ.H˜RMINORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(¡¬×M8ù—§”Ñ.H”RMAJORZ
+CODE_SMELL
+n
+java:S1854";Remove this useless assignment to local variable "mapCopy".(Ë†à¥8ù—§”Ñ.H–RMAJORZ
+CODE_SMELL

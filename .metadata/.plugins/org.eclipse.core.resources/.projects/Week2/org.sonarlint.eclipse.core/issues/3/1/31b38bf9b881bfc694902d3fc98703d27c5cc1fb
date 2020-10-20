@@ -1,0 +1,11 @@
+
+y
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(‚«àD8öŒàÓ.HòRBLOCKERZBUG
+v
+java:S2095"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(º©àé8öŒàÓ.HóRBLOCKERZBUG
+r
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8öŒàÓ.HôRMINORZ
+CODE_SMELL
+‘
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(çâîÀıÿÿÿÿ8öŒàÓ.HõRMINORZ
+CODE_SMELL

@@ -1,0 +1,26 @@
+
+U	java:S131:""Add a default case to this switch.(Ì ¿§üÿÿÿÿH½RCRITICALZ
+CODE_SMELL
+d	java:S106#"9Replace this use of System.out or System.err by a logger.(Òüõ–H¾RMAJORZ
+CODE_SMELL
+d	java:S106("9Replace this use of System.out or System.err by a logger.(Òüõ–H¿RMAJORZ
+CODE_SMELL
+d	java:S106-"9Replace this use of System.out or System.err by a logger.(Òüõ–HÀRMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(Òüõ–HÁRMAJORZ
+CODE_SMELL
+d	java:S1068"9Replace this use of System.out or System.err by a logger.(‘ä³HÂRMAJORZ
+CODE_SMELL
+|
+java:S1301:"KReplace this "switch" statement by "if" statements to increase readability.(Ì ¿§üÿÿÿÿHÃRMINORZ
+CODE_SMELL
+›
+java:S11305"jRemove the declaration of thrown exception 'java.lang.NumberFormatException' which is a runtime exception.(ù×©úÿÿÿÿHÄRMINORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(Òüõ–HÅRMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(Òüõ–HÆRMAJORZ
+CODE_SMELL
+‡
+java:S1192"XDefine a constant instead of duplicating this literal " transacted succesfully" 6 times.(Òüõ–HÇRCRITICALZ
+CODE_SMELL

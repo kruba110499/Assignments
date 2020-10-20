@@ -1,0 +1,56 @@
+package com.assignment.problems;
+
+import java.util.concurrent.Exchanger;
+
+Synchronized class ProducerThread implements Runnable {
+    String str;
+    Exchanger<String> ex;
+    ProducerThread(Exchanger<String> ex){
+        this.ex = ex;
+        str = new String();
+    }
+   
+    public void run() {
+        for(int i = 0; i < 3; i ++){
+            str = "Producer" + i;
+            try {
+            	System.out.println("producer");
+                // exchanging with an empty String 
+                str = ex.exchange(str);
+            } catch (InterruptedException e) {
+                System.out.println(e);
+            }
+        }       
+    }   
+}
+
+Synchronized class ConsumerThread implements Runnable {
+    String str;
+    Exchanger<String> ex;
+    ConsumerThread(Exchanger<String> ex){
+        this.ex = ex;
+    }
+    public void run() {
+        for(int i = 0; i < 3; i ++){
+            try {
+                // Getting string from producer thread
+                // giving empty string in return
+                str = ex.exchange(new String());
+                System.out.println("Got from Producer " + str);
+            } catch (InterruptedException e) {
+                System.out.println(e);
+            }
+        }        
+    }   
+}
+public class ExchangeProblem {
+
+	public static void main(String[] args) {
+		Exchanger<String> ex = new Exchanger<String>();
+        // Starting two threads
+        new Thread(new ProducerThread(ex)).start();
+        new Thread(new ConsumerThread(ex)).start();
+
+	}
+
+}
